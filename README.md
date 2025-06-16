@@ -34,7 +34,7 @@ EMF-Detector
 ├── code/
 │   └── emf_detector.ino
 └── src/
-    └── images
+    └── images/
         ├── schematic.png
         └── final.png
 ```
