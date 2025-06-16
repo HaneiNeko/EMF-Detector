@@ -23,8 +23,14 @@ This project is an EMF detector using the Arduino framework.
 EMF-Detector
 ├── README.md
 ├── schematics/
-│   ├── Emf_detector.sch
-│   └── Emf_detector.pcb
+│   ├── libs/
+│   │   └── ATTINY85-20PU/
+│   │       ├── ATTINY85-20PU.kicad_sym
+│   │       ├── ATTINY85-20PU.pretty/
+│   │       │   └── DIP762W46P254L927H533Q8B.kicad_mod
+│   │       └── ATTINY85-20PU.step
+│   ├── Emf_detector.kicad_sch
+│   └── Emf_detector.kicad_pcb
 ├── code/
 │   └── emf_detector.ino
 └── src/
