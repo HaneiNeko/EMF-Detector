@@ -18,27 +18,6 @@ An antena detect a electromagnetic fields, and depending on the electromagnetic 
 ## This project
 This project is an EMF detector using the Arduino framework.
 
-## Content
-```
-EMF-Detector
-├── README.md
-├── schematics/
-│   ├── libs/
-│   │   └── ATTINY85-20PU/
-│   │       ├── ATTINY85-20PU.kicad_sym
-│   │       ├── ATTINY85-20PU.pretty/
-│   │       │   └── DIP762W46P254L927H533Q8B.kicad_mod
-│   │       └── ATTINY85-20PU.step
-│   ├── Emf_detector.kicad_sch
-│   └── Emf_detector.kicad_pcb
-├── code/
-│   └── emf_detector.ino
-└── src/
-    └── images/
-        ├── schematic.png
-        └── final.png
-```
-
 ## Usage
 1. Use the schematic for create the PCB
 2. Push the code into the microcontroller
