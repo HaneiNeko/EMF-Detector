@@ -18,6 +18,9 @@ An antena detect a electromagnetic fields, and depending on the electromagnetic 
 ## This project
 This project is an EMF detector using the Arduino framework.
 
+## Schematics
+![schematics](src/imges/schematics.png)
+
 ## Usage
 1. Use the schematic for create the PCB
 2. Push the code into the microcontroller
